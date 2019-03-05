@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - vishnuj",
+            "request": "launch",
+            "mainClass": "vishnuj",
+            "projectName": "hash_d4aac721"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - vishnu",
+            "request": "launch",
+            "mainClass": "vishnu",
+            "projectName": "hash_d4aac721"
+        }
+    ]
+}

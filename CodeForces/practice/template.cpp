@@ -1,12 +1,11 @@
 #include <bits/stdc++.h>
-#include "algo/debug.h"
 
 using namespace std;
 
-#ifdef ONLINE_JUDGE
-#define debug(...) 42
-#else
+#ifdef LOCAL
 #include "algo/debug.h"
+#else
+#define debug(...) 42
 #endif
 
 int main() {
